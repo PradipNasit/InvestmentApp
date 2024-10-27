@@ -4,13 +4,36 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+📊 Investment Portfolio Tracker  
 
-A few resources to get you started if this is your first Flutter project:
+📝 Table of Contents
+* Overview
+* Features
+* Screenshots
+* Installation
+* Usage
+* Technical Details
+* Dependencies
+* Folder Structure
+* Contributing
+* License
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  🔍 Overview
+* The Investment Portfolio Tracker app helps users manage their investments efficiently. Users can add investments, view details, and analyze portfolio distribution with an interactive pie chart. Built with Flutter and GetX for smooth state management,
+  the app uses a dark theme to enhance the user experience.
+
+  ✨ Features
+* Add Investment: Allows users to add investments with details like name, invested amount, and current value.
+* Investment List: Displays a list of investments with quick insights into invested and current values.
+* Investment Details: Shows a breakdown of each investment's performance and growth percentage.
+* Portfolio Summary: Shows the total value of the portfolio at the bottom of the home screen.
+* Investment Distribution Chart: A pie chart representing the portfolio distribution by percentage, with each investment labeled and color-coded.
+* Dark Theme UI: Sleek, modern UI for a better visual experience.
+
+
+
+
+
+
+
